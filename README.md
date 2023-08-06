@@ -39,7 +39,7 @@ A [Docker](https://www.docker.com/)-based installer and runtime for the [Symfony
 
 ## License
 
-Symfony Docker is available under the MIT License.fe
+Symfony Docker is available under the MIT License.
 
 ## Credits
 
